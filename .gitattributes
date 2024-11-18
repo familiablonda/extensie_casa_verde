@@ -1,0 +1,8 @@
+background.js filter=git-crypt diff=git-crypt
+content.js filter=git-crypt diff=git-crypt
+inject.js filter=git-crypt diff=git-crypt
+manifest.json filter=git-crypt diff=git-crypt
+popup.html filter=git-crypt diff=git-crypt
+popup.js filter=git-crypt diff=git-crypt
+*.png filter=git-crypt diff=git-crypt
+*.txt filter=git-crypt diff=git-crypt
